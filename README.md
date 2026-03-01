@@ -1,0 +1,2 @@
+# myNVim
+My NVim Configurations
