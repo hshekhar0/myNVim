@@ -118,7 +118,7 @@ If you're using `CoC.nvim` for code completion, you might need to install the ap
 ## Customization
 You can easily customize this setup further by adding more plugins, adjusting the key mappings, or changing any settings in the init.vim file. Check the plugin documentation for advanced configuration options.
 
-Troubleshooting
+## Troubleshooting
 
 Plugins Not Installing: If plugins aren’t installing with :PlugInstall, make sure vim-plug is installed correctly by checking the file path: `~/.local/share/nvim/site/autoload/plug.vim.`
 
